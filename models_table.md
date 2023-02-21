@@ -1,0 +1,11 @@
+prdct: 
+   - img ofiiciel
+   - img for slides
+   - title
+   - price 
+   - brand 
+   - Description
+   - Availble color
+   - Specification
+   - Size [S M L XL XXL]
+   - Quantite
